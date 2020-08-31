@@ -7,6 +7,24 @@ INSERT INTO O_OBJ
 	'project',
 	'',
 	"00000000-0000-0000-0000-000000000000");
+INSERT INTO O_NBATTR
+	VALUES ("0c49fac0-add0-42ac-b2db-5bac5b0d9a49",
+	"4bdc8895-fee4-4543-96da-a39809bb8a77");
+INSERT INTO O_BATTR
+	VALUES ("0c49fac0-add0-42ac-b2db-5bac5b0d9a49",
+	"4bdc8895-fee4-4543-96da-a39809bb8a77");
+INSERT INTO O_ATTR
+	VALUES ("0c49fac0-add0-42ac-b2db-5bac5b0d9a49",
+	"4bdc8895-fee4-4543-96da-a39809bb8a77",
+	"00000000-0000-0000-0000-000000000000",
+	'Name',
+	'',
+	'',
+	'Name',
+	0,
+	"ba5eda7a-def5-0000-0000-000000000004",
+	'',
+	'');
 INSERT INTO O_ID
 	VALUES (0,
 	"4bdc8895-fee4-4543-96da-a39809bb8a77");
